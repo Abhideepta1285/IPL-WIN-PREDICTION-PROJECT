@@ -19,7 +19,7 @@ The model continuously updates the winning chances after every over based on the
 
 Example:
 
-https://ipl-win-predictor.streamlit.app
+h[ttps://ipl-win-predictor.streamlit.app](https://ipl-win-prediction-project-fwaf7gkjs2ngxjdfxzzn4m.streamlit.app/)
 
 ---
 
